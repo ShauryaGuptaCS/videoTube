@@ -5,6 +5,8 @@
 ## Models created till now using mongoose
 - User
 - Video
+- Subscription
+
 ## Features added till now
 - Secure Login , Register , Logout using Access Token and Refresh Token. 
 And encrypted password using [bcrypt]
